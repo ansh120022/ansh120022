@@ -1,10 +1,10 @@
 # Anastasiia Shakhovnina - Senior Test Engineer
 
-My production work lives in my employers' private repositories, so I keep this repo as a demonstration of the code I can write. Over the years, I've accumulated some take-home assignments from job applications, along with a pet project I host for myself and my friends.
+While production work lives in my employers' private repositories, I keep this repo as a demonstration of the code I can write. Over the years, I've accumulated some take-home assignments from job applications, along with a pet project I host for myself and my friends.
 
 ### 🏠 Household Tracker — my own product
 
-[Live app](https://household-manager.duckdns.org/) · [Source](https://github.com/ansh120022/household_tracker)
+[Live app](https://household-manager.duckdns.org/) · [Source code](https://github.com/ansh120022/household_tracker)
 
 A shared shopping and chores list for people who live together: items  running low appear on the shopping list, and recurring chores show up when they're due. The app designed to work without an account and doesn't require personal data.
 
